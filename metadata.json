@@ -1,0 +1,6 @@
+{
+  "name": "ClearReel — Facebook HD & Batch Video Downloader",
+  "description": "Download public Facebook videos, Reels, and Watch streams in up to 4K/1080p HD with a fast multi-URL batch queue.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
